@@ -1,0 +1,14 @@
+{
+  "name": "04_login_otp_with_ttl",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+
+  "scripts": {
+    "dev": "node src/index.js"
+  },
+  "dependencies": {
+    "express": "5.2.1",
+    "ioredis": "6.0.0"
+  }
+}
